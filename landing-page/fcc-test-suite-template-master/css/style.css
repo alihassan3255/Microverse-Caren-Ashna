@@ -14,15 +14,32 @@ email{
 }
 submit{
     text-align:center;
+    padding: 15px;
+    color: yellow;
 }
-nav{
+.menu  {
+    padding-top: 50px;
+    margin-top: auto;
+
+}
+nav ul li{
   text-align:center;
-  display:flex;
+  display:block;
   float: right;
   color: #f2f2f2;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
   font-size: 17px;
+  list-style-type:none;
+  margin-top: auto;
+ 
 }
+.feature ul li{
+    list-style-type:none;
+
+
+}
+
+
 
