@@ -42,12 +42,15 @@ nav ul{
     /* width: 200px; */
     /* height: px; */
     display: inline-block;
+    position: absolute;
+    right: 0;
 
 }
 nav li{
     display: inline-block;
     margin: 0 80px;
     /* line-height: 50px; */
+    
    
     
 
